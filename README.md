@@ -1,6 +1,6 @@
 # AI Newbie System
 
-## Berbagai Macam Sistem
+## Systems
 - **basic_collaborative_filtering**
 - **decision_tree**
 - **fraud _detection**
